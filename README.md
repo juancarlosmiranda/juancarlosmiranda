@@ -5,7 +5,7 @@ Hi, I'm Juan Carlos Miranda, I worked as a developer in a software company. I wa
 
 
 # Software packages
-Maintaining software packages in (Pypi.org)[https://pypi.org].
+Currently maintaining software packages on (Pypi.org)[https://pypi.org].
 
 | Package                   | Url            |
 |---------------------------|-------------------------|
