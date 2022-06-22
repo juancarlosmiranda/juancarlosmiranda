@@ -9,7 +9,7 @@ apple trees.
 
 # Software packages
 
-Currently maintaining software packages on (Pypi.org)[https://pypi.org].
+Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 
 | Package                   | Url            |
 |---------------------------|-------------------------|
