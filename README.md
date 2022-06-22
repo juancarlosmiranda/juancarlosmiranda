@@ -1,1 +1,4 @@
-Hi, I'm Juan Carlos Miranda, I worked in a software company as a developer in Paraguay. I was also a teacher at the Catholic University "Nuestra Señora de Asunción" Campus Itapúa. I am currently a PhD student at the University of Lleida and I work in the Research Group on Precision Agriculture (GRAP) of the Department of Agricultural and Forestry Engineering. I use RGB-D cameras and I try to keep learning every day. https://github.com/juancarlosmiranda
+Hi, I'm Juan Carlos Miranda, I worked as a developer in a software company. I was also a teacher at the Catholic University "Nuestra Señora de Asunción" Campus Itapúa. Currently I am a PhD student at the University of Lleida in the Research Group on Precision Agriculture (GRAP) of the Department of Agricultural and Forestry Engineering. My work focuses on the application of photonic sensors, computer vision and spatial sampling methods to estimate fruit load in apple trees. 
+
+* (Researchgate)[https://www.researchgate.net/profile/Juan-Miranda-6]
+* (ORCID)[ https://orcid.org/0000-0001-5912-9704]
