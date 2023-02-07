@@ -3,6 +3,17 @@ Hi, my name is Juan Carlos Miranda, I am currently a PhD student at the Universi
 * Researchgate -> https://www.researchgate.net/profile/Juan-Miranda-6
 * ORCID -> https://orcid.org/0000-0001-5912-9704
 
+# Guides / How To's
+
+Some notes.
+
+| Package                   | Description            |
+|---------------------------|-------------------------|
+| Azure Kinect camera setup (automated scripts for Linux and Windows) ([https://github.com/juancarlosmiranda/azure_kinect_notes](https://github.com/GRAP-UdL-AT/ak_acquisition_system)) | This document contains instructions/notes on how to install the Azure Kinect camera. Here we collect experiences that
+have arisen with the development of [AK_SM_RECORDER](https://pypi.org/project/ak-sm-recorder/)
+and [AK_FRAME_EXTRACTOR](https://pypi.org/project/ak-frame-extractor/). |
+
+
 # Software packages
 
 Currently maintaining software packages at (Pypi.org)[https://pypi.org].
