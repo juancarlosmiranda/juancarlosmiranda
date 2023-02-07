@@ -9,9 +9,7 @@ Some notes.
 
 | Package                   | Description            |
 |---------------------------|-------------------------|
-| Azure Kinect camera setup (automated scripts for Linux and Windows) ([https://github.com/juancarlosmiranda/azure_kinect_notes](https://github.com/GRAP-UdL-AT/ak_acquisition_system)) | This document contains instructions/notes on how to install the Azure Kinect camera. Here we collect experiences that
-have arisen with the development of [AK_SM_RECORDER](https://pypi.org/project/ak-sm-recorder/)
-and [AK_FRAME_EXTRACTOR](https://pypi.org/project/ak-frame-extractor/). |
+| Azure Kinect camera setup (automated scripts for Linux and Windows) ([https://github.com/juancarlosmiranda/azure_kinect_notes](https://github.com/GRAP-UdL-AT/ak_acquisition_system)) | This document contains instructions/notes on how to install the Azure Kinect camera. Here we collect experiences that have arisen with the development of [AK_SM_RECORDER](https://pypi.org/project/ak-sm-recorder/) and [AK_FRAME_EXTRACTOR](https://pypi.org/project/ak-frame-extractor/). |
 
 
 # Software packages
