@@ -6,6 +6,7 @@ Hi, my name is Juan Carlos Miranda, I am currently a PhD student at the Universi
 * LinkedIn -> https://www.linkedin.com/in/juan-carlos-miranda-b36047267/
 * Twitter -> https://twitter.com/mirandajuancar/
 * Stackoverflow -> https://stackoverflow.com/users/8041249/juan-carlos-miranda/
+* huggingface ->https://huggingface.co/jmiranda
 
 
 # Guides / How To's
