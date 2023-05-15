@@ -1,6 +1,7 @@
 Hi, my name is Juan Carlos Miranda, I am currently a PhD student at the University of Lleida in the Research Group on Precision Agriculture (GRAP) - Department of Agricultural and Forestry Engineering. My work focuses on the application of photonic sensors, computer vision and spatial sampling methods to estimate fruit load in apple trees.
 
 * Researchgate -> https://www.researchgate.net/profile/Juan-Miranda-6/
+* Scholar.Google -> https://scholar.google.com/citations?hl=es&user=B2f3BHYAAAA
 * ORCID -> https://orcid.org/0000-0001-5912-9704/
 * SCOPUS ID 57947116100 -> https://www.scopus.com/authid/detail.uri?authorId=57947116100/
 * LinkedIn -> https://www.linkedin.com/in/juan-carlos-miranda-b36047267/
