@@ -31,7 +31,7 @@ Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 | AK_SIMULATOR - Azure Kinect Size Estimation & Weight Prediction Simulator ([https://github.com/GRAP-UdL-AT/ak_simulator/](https://github.com/GRAP-UdL-AT/ak_simulator/)) | Python based GUI tool for fruit size estimation and weight prediction. ([https://pypi.org/project/ak-simulator/](https://pypi.org/project/ak-simulator/)) |
 | AK_VIDEO_ANALYSER - Azure Kinect Video Analyser ([https://github.com/GRAP-UdL-AT/ak_video_analyser/](https://github.com/GRAP-UdL-AT/ak_video_analyser/)) | Python based GUI tool for fruit size estimation and weight prediction from videos. ([https://pypi.org/project/ak-video-analyser/](https://pypi.org/project/ak-video-analyser/))|
 
-# Azure Kinect data
+# Azure Kinect DK data
 
 Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 
