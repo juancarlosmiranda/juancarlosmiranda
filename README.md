@@ -31,11 +31,11 @@ Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 | AK_SIMULATOR - Azure Kinect Size Estimation & Weight Prediction Simulator ([https://github.com/GRAP-UdL-AT/ak_simulator/](https://github.com/GRAP-UdL-AT/ak_simulator/)) | Python based GUI tool for fruit size estimation and weight prediction. ([https://pypi.org/project/ak-simulator/](https://pypi.org/project/ak-simulator/)) |
 | AK_VIDEO_ANALYSER - Azure Kinect Video Analyser ([https://github.com/GRAP-UdL-AT/ak_video_analyser/](https://github.com/GRAP-UdL-AT/ak_video_analyser/)) | Python based GUI tool for fruit size estimation and weight prediction from videos. ([https://pypi.org/project/ak-video-analyser/](https://pypi.org/project/ak-video-analyser/))|
 
-# Azure Kinect DK data
+# Azure Kinect DK data and information
 
 Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 
-| Package                   | Description            |
+| Resource                   | Description            |
 |---------------------------|-------------------------|
 | [AK_FRAEX - Azure Kinect Frame Extractor demo videos](https://zenodo.org/record/8232445) | Video samples recorded in the field using the Azure Kinect DK. These videos are part of the [https://pypi.org/project/ak-frame-extractor/](https://pypi.org/project/ak-frame-extractor/) software to demonstrate the use of frame extraction tasks. |
-
+| [ResearchGate - Azure Kinect camera information resources](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources) | Question open in [ResearchGate](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources). |
