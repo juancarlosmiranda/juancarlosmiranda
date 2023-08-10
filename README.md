@@ -30,3 +30,12 @@ Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 | AK_FRAEX - Azure Kinect Frame Extractor ([https://github.com/GRAP-UdL-AT/ak_frame_extractor](https://github.com/GRAP-UdL-AT/ak_frame_extractor)) | AK_FRAEX is a desktop tool created for post-processing tasks after field acquisition. It enables the extraction of information from videos recorded in MKV format with the Azure Kinect camera. Through a GUI, the user can configure initial parameters to extract frames and automatically create the necessary metadata for a set of images. ([https://pypi.org/project/ak-frame-extractor/](https://pypi.org/project/ak-frame-extractor/))|
 | AK_SIMULATOR - Azure Kinect Size Estimation & Weight Prediction Simulator ([https://github.com/GRAP-UdL-AT/ak_simulator/](https://github.com/GRAP-UdL-AT/ak_simulator/)) | Python based GUI tool for fruit size estimation and weight prediction. ([https://pypi.org/project/ak-simulator/](https://pypi.org/project/ak-simulator/)) |
 | AK_VIDEO_ANALYSER - Azure Kinect Video Analyser ([https://github.com/GRAP-UdL-AT/ak_video_analyser/](https://github.com/GRAP-UdL-AT/ak_video_analyser/)) | Python based GUI tool for fruit size estimation and weight prediction from videos. ([https://pypi.org/project/ak-video-analyser/](https://pypi.org/project/ak-video-analyser/))|
+
+# Azure Kinect data
+
+Currently maintaining software packages at (Pypi.org)[https://pypi.org].
+
+| Package                   | Description            |
+|---------------------------|-------------------------|
+| [AK_FRAEX - Azure Kinect Frame Extractor demo videos](https://zenodo.org/record/8232445) | Video samples recorded in the field using the Azure Kinect DK. These videos are part of the [https://pypi.org/project/ak-frame-extractor/](https://pypi.org/project/ak-frame-extractor/) software to demonstrate the use of frame extraction tasks. |
+
