@@ -17,7 +17,7 @@ Some notes.
 | Resources                   | Description            |
 |---------------------------|-------------------------|
 | [Azure Kinect camera setup (automated scripts for Linux and Windows)](https://github.com/juancarlosmiranda/azure_kinect_notes)  | Ready-to-use installation scripts ([https://github.com/juancarlosmiranda/azure_kinect_notes](https://github.com/juancarlosmiranda/azure_kinect_notes). |
-| [ResearchGate - Azure Kinect camera information resources](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources) | Question open in [ResearchGate](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources). |
+| [ResearchGate - Azure Kinect camera information resources](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources) | Question open in [ResearchGate](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources) about Azure Kinect DK camera. |
 
 # Software packages
 
