@@ -14,10 +14,10 @@ Hi, my name is Juan Carlos Miranda, I am currently a PhD student at the Universi
 
 Some notes.
 
-| Package                   | Description            |
+| Resources                   | Description            |
 |---------------------------|-------------------------|
-| Azure Kinect camera setup (automated scripts for Linux and Windows) ([https://github.com/juancarlosmiranda/azure_kinect_notes](https://github.com/juancarlosmiranda/azure_kinect_notes). |
-
+| [Azure Kinect camera setup (automated scripts for Linux and Windows)](https://github.com/juancarlosmiranda/azure_kinect_notes)  | Ready-to-use installation scripts ([https://github.com/juancarlosmiranda/azure_kinect_notes](https://github.com/juancarlosmiranda/azure_kinect_notes). |
+| [ResearchGate - Azure Kinect camera information resources](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources) | Question open in [ResearchGate](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources). |
 
 # Software packages
 
@@ -38,4 +38,4 @@ Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 | Resource                   | Description            |
 |---------------------------|-------------------------|
 | [AK_FRAEX - Azure Kinect Frame Extractor demo videos](https://zenodo.org/record/8232445) | Video samples recorded in the field using the Azure Kinect DK. These videos are part of the [https://pypi.org/project/ak-frame-extractor/](https://pypi.org/project/ak-frame-extractor/) software to demonstrate the use of frame extraction tasks. |
-| [ResearchGate - Azure Kinect camera information resources](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources) | Question open in [ResearchGate](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources). |
+
