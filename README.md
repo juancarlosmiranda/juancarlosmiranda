@@ -19,6 +19,17 @@ Some notes.
 | [Azure Kinect camera setup (automated scripts for Linux and Windows)](https://github.com/juancarlosmiranda/azure_kinect_notes)  | Ready-to-use installation scripts ([https://github.com/juancarlosmiranda/azure_kinect_notes](https://github.com/juancarlosmiranda/azure_kinect_notes). |
 | [ResearchGate - Azure Kinect camera information resources](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources) | Question open in [ResearchGate](https://www.researchgate.net/post/Azure_Kinect_camera_information_resources) about Azure Kinect DK camera. |
 
+
+# Publications/ articles
+
+Currently maintaining software packages at (Pypi.org)[https://pypi.org].
+| Resources                   | Description            |
+|---------------------------|-------------------------|
+| [AKFruitData: A dual software application for Azure Kinect cameras to acquire and extract informative data in yield tests performed in fruit orchard environments](https://doi.org/10.1016/j.softx.2022.101231)  | RGB-D camera Data acquisition Data extraction Fruit yield trials Precision fructiculture |
+| [.](https://doi.org/10.1016/j.softx.2022.101231) | . . |
+
+
+
 # Software packages
 
 Currently maintaining software packages at (Pypi.org)[https://pypi.org].
