@@ -24,6 +24,7 @@ Some notes.
 
 | Resources                   | Description            |
 |---------------------------|-------------------------|
+| [Fruit sizing using AI: A review of methods and challenges](https://doi.org/10.1016/j.postharvbio.2023.112587)  | https://doi.org/10.1016/j.postharvbio.2023.112587 Artificial intelligence Fruit detection Fruit measure Image processing Deep learning Fruit quality |
 | [AKFruitData: A dual software application for Azure Kinect cameras to acquire and extract informative data in yield tests performed in fruit orchard environments](https://doi.org/10.1016/j.softx.2022.101231)  | https://doi.org/10.1016/j.softx.2022.101231 RGB-D camera Data acquisition Data extraction Fruit yield trials Precision fructiculture |
 | [CLASIFICACIÓN AUTOMÁTICA DE NARANJAS POR TAMAÑO Y POR DEFECTOS UTILIZANDO TÉCNICAS DE VISIÓN POR COMPUTADORA](https://repositorio.conacyt.gov.py/handle/20.500.14066/3172) | https://repositorio.conacyt.gov.py/handle/20.500.14066/3172 Orange classification by computer vision in controled environments |
 | [.](https://doi.org/10.1016/j.softx.2022.101231) | . . |
@@ -43,7 +44,7 @@ Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 | ![AK_VIDEO_ANALYSER_100](https://github.com/juancarlosmiranda/juancarlosmiranda/blob/main/images/ak_video_analyser_992.png?raw=true) | AK_VIDEO_ANALYSER - Azure Kinect Video Analyser ([https://pypi.org/project/ak-video-analyser/](https://pypi.org/project/ak-video-analyser/)) | Python based GUI tool for fruit size estimation and weight prediction from videos. |
 
 
-# Azure Kinect DK data and information
+# Azure Kinect DK data and information - demo videos
 
 Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 
