@@ -4,7 +4,7 @@ During my PhD, my work focused on the application of photonic sensors, computer 
 * Researchgate -> https://www.researchgate.net/profile/Juan-Miranda-6/
 * Scholar.Google -> https://scholar.google.com/citations?hl=es&user=B2f3BHYAAAA
 * ORCID 0000-0001-5912-9704 -> https://orcid.org/0000-0001-5912-9704/
-* SCOPUS ID 57947116100 -> https://www.scopus.com/authid/detail.uri?authorId=57947116100/
+* SCOPUS ID 57947116100 -> https://www.scopus.com/authid/detail.uri?authorId=57947116100
 * LinkedIn -> https://www.linkedin.com/in/juan-carlos-miranda-py/
 * Twitter -> https://twitter.com/mirandajuancar/
 * Stackoverflow -> https://stackoverflow.com/users/8041249/juan-carlos-miranda/
