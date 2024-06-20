@@ -1,5 +1,8 @@
-Hi, my name is Juan Carlos Miranda. 
+Welcome to my site!
+
+Here I try to publish what I do, that includes: notes, investigations, works, code. I hope this is useful to you, and if it is, please let me know.
 During my PhD, my work focused on the application of photonic sensors, computer vision and fruit load estimation in apple trees.
+
 
 * Researchgate -> https://www.researchgate.net/profile/Juan-Miranda-6/
 * Scholar.Google -> https://scholar.google.com/citations?hl=es&user=B2f3BHYAAAA
@@ -35,7 +38,7 @@ Some notes.
 
 
 
-# Software packages
+# Open Source Software Packages
 
 Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 
@@ -48,7 +51,7 @@ Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 | ![AK_VIDEO_ANALYSER_100](https://github.com/juancarlosmiranda/juancarlosmiranda/blob/main/images/icons_992/ak_video_analyser_992.png?raw=true) | AK_VIDEO_ANALYSER - Azure Kinect Video Analyser ([https://pypi.org/project/ak-video-analyser/](https://pypi.org/project/ak-video-analyser/)) | Python based GUI tool for fruit size estimation and weight prediction from videos. |
 
 
-# Azure Kinect DK data and information - demo videos
+# Azure Kinect DK dDta and Information - Demo Videos
 
 Currently maintaining software packages at (Pypi.org)[https://pypi.org].
 
