@@ -1,18 +1,19 @@
+# About me...
+I am a computer engineer with experience in academia, the software industry and the financial sector. Throughout my professional career, I have held various positions, including infrastructure support technician, software developer, database administrator, and information security specialist. My doctoral research has focused on the characterization and classification of fruits through the application of artificial intelligence techniques, digital image processing and computer vision. I have developed AI tools for fruit identification and classification, having worked with oranges and apples.
+
 Welcome to my site!
 
 Here I try to publish what I do, that includes: notes, investigations, works, code. I hope this is useful to you, and if it is, please let me know.
-During my PhD, my work focused on the application of photonic sensors, computer vision and fruit load estimation in apple trees.
 
-
+## Academic profiles:
 * Researchgate -> https://www.researchgate.net/profile/Juan-Miranda-6/
 * Scholar.Google -> https://scholar.google.com/citations?hl=es&user=B2f3BHYAAAA
 * ORCID 0000-0001-5912-9704 -> https://orcid.org/0000-0001-5912-9704/
 * SCOPUS ID 57947116100 -> https://www.scopus.com/authid/detail.uri?authorId=57947116100
-* LinkedIn -> https://www.linkedin.com/in/juan-carlos-miranda-py/
-* Twitter -> https://twitter.com/mirandajuancar/
-* Stackoverflow -> https://stackoverflow.com/users/8041249/juan-carlos-miranda/
-* huggingface ->https://huggingface.co/jmiranda
 
+## Connect with me:
+* LinkedIn -> https://www.linkedin.com/in/juan-carlos-miranda-py/
+* X.com -> https://twitter.com/mirandajuancar/
 
 # Guides / How To's
 
@@ -35,7 +36,6 @@ Some notes.
 | [CLASIFICACIÓN AUTOMÁTICA DE NARANJAS POR TAMAÑO Y POR DEFECTOS UTILIZANDO TÉCNICAS DE VISIÓN POR COMPUTADORA](https://repositorio.conacyt.gov.py/handle/20.500.14066/3172) | https://repositorio.conacyt.gov.py/handle/20.500.14066/3172 Orange classification by computer vision in controled environments. Github repository: [https://github.com/juancarlosmiranda/orange_classification/](https://github.com/juancarlosmiranda/orange_classification/) |
 | [Open source software and benchmarking of computer vision algorithms for apple fruit detection, fruit sizing and yield prediction using RGB-D cameras](http://hdl.handle.net/10803/690455) |  Doctoral thesis URI: [http://hdl.handle.net/10803/690455](http://hdl.handle.net/10803/690455), [https://repositori.udl.cat/handle/10459.1/465456](https://repositori.udl.cat/handle/10459.1/465456), [https://dx.doi.org/10.13140/RG.2.2.27765.18406](https://dx.doi.org/10.13140/RG.2.2.27765.18406)|
 | [.](https://doi.org/10.1016/j.softx.2022.101231) | . . |
-
 
 
 # Open Source Software Packages
