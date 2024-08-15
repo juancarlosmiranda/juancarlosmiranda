@@ -12,6 +12,7 @@ Here I try to publish what I do, that includes: notes, investigations, works, co
 * SCOPUS ID 57947116100 -> https://www.scopus.com/authid/detail.uri?authorId=57947116100
 
 ## Connect with me:
+* Site -> https://juancarlosmiranda.github.io/
 * LinkedIn -> https://www.linkedin.com/in/juan-carlos-miranda-py/
 * X.com -> https://twitter.com/mirandajuancar/
 
