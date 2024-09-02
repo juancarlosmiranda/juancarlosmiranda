@@ -1,7 +1,7 @@
 # About me...
 I am a computer engineer with experience in academia, the software industry and the financial sector. Throughout my professional career, I have held various positions, including infrastructure support technician, software developer, database administrator, and information security specialist. My doctoral research has focused on the characterization and classification of fruits through the application of artificial intelligence techniques, digital image processing and computer vision. I have developed AI tools for fruit identification and classification, having worked with oranges and apples.
 
-Welcome to my site! https://juancarlosmiranda.github.io/i
+Welcome to my site! https://juancarlosmiranda.github.io/
 
 Here I try to publish what I do, that includes: notes, investigations, works, code. I hope this is useful to you, and if it is, please let me know.
 
