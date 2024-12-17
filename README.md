@@ -10,11 +10,13 @@ Here I try to publish what I do, that includes: notes, investigations, works, co
 * Scholar.Google -> https://scholar.google.com/citations?hl=es&user=B2f3BHYAAAA
 * ORCID 0000-0001-5912-9704 -> https://orcid.org/0000-0001-5912-9704/
 * SCOPUS ID 57947116100 -> https://www.scopus.com/authid/detail.uri?authorId=57947116100
-
+* Credly -> https://www.credly.com/users/juan-carlos-miranda-py
+  
 ## Connect with me:
 * Site -> https://juancarlosmiranda.github.io/
 * LinkedIn -> https://www.linkedin.com/in/juan-carlos-miranda-py/
 * X.com -> https://twitter.com/mirandajuancar/
+
 
 # Guides / How To's
 
